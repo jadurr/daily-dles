@@ -1,0 +1,33 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    margin: auto;
+    width: 100%;
+    text-align: center;
+    color: black;
+  }
+  h1{
+    font-size: 52px;
+  }
+  h2{
+    font-size: 30px;
+  
+  }
+  h4{
+  
+  }
+  h5{
+  
+  }
+  a{
+  
+  }
+  p{
+  
+  }
+  div{
+  
+  }
